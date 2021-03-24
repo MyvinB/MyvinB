@@ -54,9 +54,9 @@ Hola Amigo 👋
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=myvinb.myvinb)  
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=myvinb.myvinb)  
 
-<img src="https://github-readme-stats.vercel.app/api?username=myvinb&show_icons=false">  
+<img src="https://github-readme-stats.vercel.app/api?username=myvinb&show_icons=true&theme=dark">  
 
 <!--
 **MyvinB/MyvinB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
