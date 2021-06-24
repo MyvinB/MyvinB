@@ -15,4 +15,4 @@ Hola Amigo 👋
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=myvinb.myvinb)  
 
 ### Github Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myvinb&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=micgogi&show_icons=true&theme=dark"> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myvinb&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=myvinb&show_icons=true&theme=dark"> 
