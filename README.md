@@ -1,74 +1,18 @@
 Hola Amigo 👋
+### Connect with me:
+
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.svgporn.com/logos/twitter.svg" />](https://twitter.com/myvin_barboza)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.svgporn.com/logos/linkedin-icon.svg" />](https://www.linkedin.com/in/myvinb/)
+[<img align="left" alt="Gmail" width="22px" src="https://cdn.svgporn.com/logos/google-gmail.svg" />](mailto:myvinbarboza@gmail.com)
+<br>
 ### My Tech Stack
+<img height="50px" width="50px" src="https://cdn.svgporn.com/logos/java.svg"> <img height="50px" width="50px" src="https://cdn.svgporn.com/logos/spring.svg"> <img height="50px" width="50px" src="https://cdn.svgporn.com/logos/javascript.svg"> <img height="50px" width="50px" src="https://cdn.svgporn.com/logos/angular.svg"> <img height="50px" width="50px" src="https://cdn.svgporn.com/logos/docker.svg"> <img height="50px" width="50px" src="https://cdn.svgporn.com/logos/aws.svg"> <img height="50px" width="50px" src="https://cdn.svgporn.com/logos/git-icon.svg"> <img height="50px" width="50px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"> <img height="50px" width="50px" src="https://cdn.svgporn.com/logos/typescript.svg"> <img height="50px" width="50px" src="https://cdn.svgporn.com/logos/python.svg"> <img height="50px" width="50px" src="https://cdn.svgporn.com/logos/react.svg"> <img height="50px" width="50px" src="https://cdn.svgporn.com/logos/html-5.svg">
+<img height="50px" width="50px" src="https://cdn.svgporn.com/logos/kubernetes.svg">
+     
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Java</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Spring</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/spring.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Angular</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/angular.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Docker</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/docker.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>AWS</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>TypeScript</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>HTML5</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
-
+  
+### 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀   
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=myvinb.myvinb)  
 
-<img src="https://github-readme-stats.vercel.app/api?username=myvinb&show_icons=true&theme=dark">  
-
-<!--
-**MyvinB/MyvinB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Github Stats
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myvinb&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=micgogi&show_icons=true&theme=dark"> 
